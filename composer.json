@@ -1,0 +1,23 @@
+﻿{
+    "name": "twnz/phpqrcode",
+    "description": "PHP Qr Code Generator forked from t0k4rt/phpqrcode with composer support",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": [
+            "qrconst.php",
+            "qrconfig.php",
+            "qrtools.php",
+            "qrspec.php",
+            "qrimage.php",
+			"qrvect.php",
+            "qrinput.php",
+            "qrbitstream.php",
+            "qrsplit.php",
+            "qrrscode.php",
+            "qrmask.php",
+            "qrencode.php"
+        ]
+    }
+}
