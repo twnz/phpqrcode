@@ -1,4 +1,4 @@
-﻿{
+{
     "name": "twnz/phpqrcode",
     "description": "PHP Qr Code Generator forked from t0k4rt/phpqrcode with composer support",
     "require": {
@@ -11,7 +11,7 @@
             "qrtools.php",
             "qrspec.php",
             "qrimage.php",
-			"qrvect.php",
+	    "qrvect.php",
             "qrinput.php",
             "qrbitstream.php",
             "qrsplit.php",
